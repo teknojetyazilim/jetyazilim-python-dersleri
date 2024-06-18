@@ -1,3 +1,5 @@
+video seris: https://youtube.com/playlist?list=PL4ePy05BJDMm0CNkvecyL_NX40kwY5bJ6&si=por978K2qpTHefPW
+
 Python Programlama Eğitimi
 Bu repo, Python programlama dilini öğrenmeye yönelik dört video serisinin kaynak kodlarını içermektedir. Her bir ders, Python'un temel ve ileri düzey konularını kapsamaktadır. Bu dosyada, her dersin içeriği hakkında bilgi bulabilirsiniz.
 
